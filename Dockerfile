@@ -23,7 +23,7 @@ ADD root /
 
 ENV USER=root
 ENV HOME=/root
-ENV VNC_PW="lokus554"
+ENV VNC_PW="vncblackbox"
 ENV VNC_RES=1000x700
 
 ENTRYPOINT [ "/bootstrap" ]
