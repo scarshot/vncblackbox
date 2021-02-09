@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --pull --rm=true $* -t vncblackbox:latest .
+docker build --pull --rm=true $* -t scar/vncblackbox:latest .
