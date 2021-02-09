@@ -1,0 +1,7 @@
+[begin] (fluxbox)
+	[exec] (Bash) {/usr/bin/xterm}
+	[exec] (Midori) {/usr/bin/midori}
+	[exec] (Firefox) {/usr/bin/firefox}
+	[include] (/root/menu)
+[end]
+

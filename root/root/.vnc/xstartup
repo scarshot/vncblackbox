@@ -1,0 +1,3 @@
+#!/bin/bash
+xrandr --dpi 75
+fluxbox

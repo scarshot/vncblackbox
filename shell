@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -it -p 127.0.0.1:6901:6901 -p 127.0.0.1:5901:5901 -v /var/docker/vncblackbox:/shared --entrypoint /bin/bash --name vncblackbox vncblackbox

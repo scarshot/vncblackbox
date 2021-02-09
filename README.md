@@ -1,2 +1,4 @@
 # vncblackbox
-Fluxbox window manager. Access via. browser (noVNC) and VNC. Contains midori and firefox.
+Fluxbox window manager. Access via. browser (noVNC) and VNC.
+
+Contains firefox and midori web browser.
